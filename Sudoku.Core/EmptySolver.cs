@@ -9,4 +9,8 @@ namespace Sudoku.Core
         {
         }
     }
+    while (true){
+
+        }
+
 }
